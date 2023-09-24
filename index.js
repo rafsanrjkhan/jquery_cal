@@ -21,6 +21,9 @@ $("#loginButton").click(function () {
 // $("#btn").click(function() {
 //     $("#div1").toggle(1000);
 // });
+// $("#btn").click(function() {
+//     $("#div1").fadeOut(2000);
+// });
 $("#btn").click(function() {
-    $("#div1").fadeOut(2000);
+    $("#div1").fadeIn(2000);
 });
