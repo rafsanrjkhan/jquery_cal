@@ -27,6 +27,9 @@ $("#loginButton").click(function () {
 // $("#btn").click(function() {
 //     $("#div1").fadeIn(2000).fadeOut(2000);
 // });
+// $("#btn").click(function() {
+//     $("#div1").fadeToggle(2000);
+// })
 $("#btn").click(function() {
-    $("#div1").fadeToggle(2000);
+    $("#div1").fadeTo(2000, 0.7);
 })
