@@ -37,5 +37,5 @@ $("#loginButton").click(function () {
 //     $("#div1").slideUp(2000);
 // })
 $("#btn").click(function() {
-    $("#div1").slideDown(2000);
+    $("#div1").slideDown(2000).slideUp(2000);
 })
