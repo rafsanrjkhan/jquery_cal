@@ -30,6 +30,9 @@ $("#loginButton").click(function () {
 // $("#btn").click(function() {
 //     $("#div1").fadeToggle(2000);
 // })
+// $("#btn").click(function() {
+//     $("#div1").fadeTo(2000, 0.7);
+// })
 $("#btn").click(function() {
-    $("#div1").fadeTo(2000, 0.7);
+    $("#div1").slideUp(2000);
 })
