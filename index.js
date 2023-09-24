@@ -15,6 +15,9 @@ $("#loginButton").click(function () {
 
 })
 
+// $("#btn").click(function() {
+//     $("#div1").show(2000).hide(2000);
+// });
 $("#btn").click(function() {
-    $("#div1").show(2000).hide(2000);
+    $("#div1").toggle(2000);
 });
