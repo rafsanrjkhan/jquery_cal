@@ -16,5 +16,5 @@ $("#loginButton").click(function () {
 })
 
 $("#btn").click(function() {
-    $("#div1").show();
+    $("#div1").show(2000);
 });
