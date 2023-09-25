@@ -42,6 +42,9 @@ $("#loginButton").click(function () {
 // $("#btn").click(function() {
 //     $("#div1").animate({opacity:"0.5"},2000);
 // })
+// $("#btn").click(function() {
+//     $("#div1").animate({height:"500px"},2000);
+// })
 $("#btn").click(function() {
-    $("#div1").animate({height:"500px"},2000);
+    $("#div1").animate({opacity:"0.5"},2000);
 })
